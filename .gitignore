@@ -1,0 +1,12 @@
+
+api/
+*.pyc
+UBITOKEN.txt
+OAUTHTOKEN.txt
+MASTERTOKEN.txt
+run_env/*
+CARDS/*
+access.log
+domain.cert.pem
+private.key.pem
+error.log
